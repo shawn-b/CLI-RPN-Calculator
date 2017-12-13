@@ -43,4 +43,4 @@ The program architecture follows a Model-View-Controller Object-Oriented archite
 
 https://github.com/shawn-b/CLI-RPN-Calculator
 
-*Note: CliRpnCalculator.exe is included in the repository and can be run on a Windows 10 computer.*
+*Note: CliRpnCalculator.exe is included for both x86 and x64 machines and can be run on a Windows 10 computer.*
